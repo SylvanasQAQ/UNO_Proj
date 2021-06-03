@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Blink
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BlinkLib KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+blink_1s KEYWORD2
+blink KEYWORD2
+blink_breathing KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BlinkLib::ON LITERAL1    
+BlinkLib::OFF LITERAL1   
