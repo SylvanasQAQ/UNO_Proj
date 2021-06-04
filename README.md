@@ -1,7 +1,7 @@
 # UNO_Proj
 
 **Note**:
-We are ==group #4==.
+We are group #4.
 
 ## 1. File List
 
